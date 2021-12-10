@@ -9,13 +9,8 @@
   </p>
   
   <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><image src="https://raw.githubusercontent.com/nashradical/nashradical/main/html5.png" height=60 width=auto></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><image src="https://raw.githubusercontent.com/nashradical/nashradical/main/css3.png" height=60 width=auto></a>
-    <a href="https://www.javascript.com/"><image src="https://raw.githubusercontent.com/nashradical/nashradical/main/js.png" height=60 width=auto></a>
-  </div>
-  <div>
     <a href="https://www.php.net/">Python</a> |
     <a href="https://www.python.org/">PHP</a> |
-    <a href="https://reactjs.org/">React</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a>
   </div>
 </div>
