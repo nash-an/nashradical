@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h3>Hi, I'm nashradical</h2>
   
   <p>
