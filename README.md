@@ -2,7 +2,7 @@
   <h3>Hi, I'm nashradical</h2>
   
   <p>
-    I'm currently working on <strong>https://deepwoken.tools</strong><br>
+    I'm currently working on <strong>https://deepwoken.tools/</strong><br>
     I’m currently learning <strong>SvelteKit and Java</strong><br>
     Reach me at <strong>nash@na-nd.tech</strong><br>
   </p>
